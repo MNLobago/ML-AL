@@ -28,11 +28,11 @@ This project focuses on developing AI-driven models for **recommendations and su
 ## ⚙️ Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/project-name.git
+   git clone https://github.com/COMRADE-APP/ML-AL.git
    ```
 2. Navigate into the project folder:  
    ```sh
-   cd project-name
+   cd ML-AL
    ```
 3. Install dependencies:  
    ```sh
