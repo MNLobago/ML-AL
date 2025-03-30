@@ -12,7 +12,7 @@ This project focuses on developing AI-driven models for **recommendations and su
 
 ## 🏗️ Project Structure  
 ```
-📂 project-root/
+📂 ML-AL/
  ├── 📁 data/                # Raw & processed datasets
  ├── 📁 models/              # Trained AI/ML models
  ├── 📁 notebooks/           # Jupyter notebooks for experimentation
